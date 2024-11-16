@@ -1,6 +1,7 @@
 Alejandro Yugar
 12:42
 
+
 Windows IP Configuration
 
 
@@ -41,3 +42,98 @@ Ethernet adapter ZeroTier One [ebe7fbd445d4ad84]:
    IPv4 Address. . . . . . . . . . . : 172.24.175.97
    Subnet Mask . . . . . . . . . . . : 255.255.0.0
    Default Gateway . . . . . . . . . : 25.255.255.254
+
+
+Pentito Cristian Roberto
+12:45
+
+
+Configuraci n IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec fico para la conexi n. . : 
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS espec fico para la conexi n. . : 
+   V nculo: direcci n IPv6 local. . . : fe80::a8e2:479c:d72c:ea62%17
+   Direcci n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal mbrica Conexi n de  rea local* 9:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec fico para la conexi n. . : 
+
+Adaptador de LAN inal mbrica Conexi n de  rea local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec fico para la conexi n. . : 
+
+Adaptador de LAN inal mbrica Wi-Fi:
+
+   Sufijo DNS espec fico para la conexi n. . : home
+   Direcci n IPv6 . . . . . . . . . . : 2800:810:485:486:557f:ab19:d671:fbd
+   Direcci n IPv6 . . . . . . . . . . : 2800:810:485:486:fc28:df52:18b3:fb30
+   Direcci n IPv6 . . . . . . . . . . : fdaa:bbcc:ddee:0:718d:6866:61af:66d1
+   Direcci n IPv6 temporal. . . . . . : 2800:810:485:486:a102:f7df:74ad:922f
+   Direcci n IPv6 temporal. . . . . . : fdaa:bbcc:ddee:0:a102:f7df:74ad:922f
+   V nculo: direcci n IPv6 local. . . : fe80::88da:c768:d34:2268%10
+   Direcci n IPv4. . . . . . . . . . . . . . : 192.168.0.8
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::ae3b:77ff:fe9e:8580%10
+                                       192.168.0.1
+
+Fernando Manuel Rivera
+12:51
+
+Configuraci n IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec fico para la conexi n. . : 
+
+Adaptador de Ethernet Ethernet 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec fico para la conexi n. . : 
+
+Adaptador desconocido Conexi n de  rea local:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec fico para la conexi n. . : 
+
+Adaptador de Ethernet Ethernet 3:
+
+   Sufijo DNS espec fico para la conexi n. . : 
+   V nculo: direcci n IPv6 local. . . : fe80::87be:a635:45f9:942f%17
+   Direcci n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal mbrica Conexi n de  rea local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec fico para la conexi n. . : 
+
+Adaptador de LAN inal mbrica Conexi n de  rea local* 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec fico para la conexi n. . : 
+
+Adaptador de LAN inal mbrica Wi-Fi:
+
+   Sufijo DNS espec fico para la conexi n. . : 
+   Direcci n IPv6 . . . . . . . . . . : 2802:8010:269b:3f00:5265:e8f5:bc98:c76e
+   Direcci n IPv6 temporal. . . . . . : 2802:8010:269b:3f00:112:8114:80fc:5060
+   V nculo: direcci n IPv6 local. . . : fe80::e3c8:3102:7eec:2606%7
+   Direcci n IPv4. . . . . . . . . . . . . . : 192.168.1.33
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::ced4:a1ff:fe20:9647%7
+                                       192.168.1.1
