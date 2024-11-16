@@ -1,0 +1,34 @@
+
+a- Igual al branch en el cual estuvimos trabajando, con todos los cambios que hicimos en a rama.
+b-  Si.
+c- 
+Con todos los datos modificados hacemos
+git add .
+git commit -m "mensaje" 
+git push
+y en GitHub creamos un pull request. 
+El dueño verifica que el pull request está todo en orden, que no haya ningún conflicto y hace el merge. 
+otra opción con comandos es: 
+git checkout main #cambiar al branch main
+git merge Pentito #para hacer el merge de rama main con rama Pentito
+git status # para verificar cambios
+git add .
+git commit -m "mensaje"
+git push
+
+d- No, tendria que actualizarlos con un git pull
+e- No hubo conflictos al realizar el merge
+
+f-	git pull
+	git checkout Yugar (rama de beta)
+	ipconfig >> beta.txt
+	git add .
+	git commit
+	git push
+
+g-      git pull
+	git checkout Yugar (rama de beta)
+	ipconfig >> beta.txt
+	git add .
+	git commit
+	git push
