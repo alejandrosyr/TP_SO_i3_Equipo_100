@@ -1,6 +1,23 @@
 Alejandro Yugar
 12:42
 
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.0.2.15  netmask 255.255.255.0  broadcast 10.0.2.255
+        inet6 fe80::a00:27ff:fe22:35cc  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:22:35:cc  txqueuelen 1000  (Ethernet)
+        RX packets 9539  bytes 7002573 (7.0 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 6609  bytes 1245073 (1.2 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 1454  bytes 162421 (162.4 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1454  bytes 162421 (162.4 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
 Windows IP Configuration
 
@@ -137,3 +154,4 @@ Adaptador de LAN inal mbrica Wi-Fi:
    M scara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : fe80::ced4:a1ff:fe20:9647%7
                                        192.168.1.1
+
