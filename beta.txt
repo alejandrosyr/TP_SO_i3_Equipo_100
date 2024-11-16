@@ -1,0 +1,43 @@
+Alejandro Yugar
+12:42
+
+Windows IP Configuration
+
+
+Unknown adapter Panda:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Ethernet 3:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::d78e:1bfe:f23c:3216%2
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter ZeroTier One [9bee8941b56a2c31]:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::9a39:def0:b8d7:73d4%7
+   IPv4 Address. . . . . . . . . . . : 10.147.17.234
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 25.255.255.254
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::32cf:3ad2:7f49:cfc2%10
+   IPv4 Address. . . . . . . . . . . : 192.168.68.107
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::423f:8cff:fef7:ba74%10
+                                       192.168.68.1
+
+Ethernet adapter ZeroTier One [ebe7fbd445d4ad84]:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::d6e7:e25c:ae06:4903%19
+   IPv4 Address. . . . . . . . . . . : 172.24.175.97
+   Subnet Mask . . . . . . . . . . . : 255.255.0.0
+   Default Gateway . . . . . . . . . : 25.255.255.254
