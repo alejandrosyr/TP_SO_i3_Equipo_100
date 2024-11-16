@@ -15,3 +15,13 @@ git status # para verificar cambios
 git add .
 git commit -m "mensaje"
 git push
+
+d- No, tendria que actualizarlos con un git pull
+e- No hubo conflictos al realizar el merge
+
+f-	git pull
+	git checkout Yugar (rama de beta)
+	ipconfig >> beta.txt
+	git add .
+	git commit
+	git push
