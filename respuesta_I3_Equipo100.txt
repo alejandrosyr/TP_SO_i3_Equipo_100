@@ -25,3 +25,10 @@ f-	git pull
 	git add .
 	git commit
 	git push
+
+g-      git pull
+	git checkout Yugar (rama de beta)
+	ipconfig >> beta.txt
+	git add .
+	git commit
+	git push
